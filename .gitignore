@@ -1,0 +1,32 @@
+# Frontend ignores
+/frontend/node_modules
+/frontend/.pnp
+/frontend/pnp.js
+/frontend/coverage
+/frontend/build
+
+# Environment files
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+
+# Misc
+/frontend/.DS_Store
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+
+# Backend ignores
+/backend/node_modules
+/backend/.env
+/backend/coverage
+
+# Global
+node_modules/
+.env
+.env.*
+.env.*.local
+.env.local
+*.log
+.DS_Store
